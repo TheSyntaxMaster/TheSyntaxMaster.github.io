@@ -1,5 +1,5 @@
 div.box1 {
-background:#803C5D;
+background:#4da6ff;
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:#803C5D;
+background:#4da6ff;
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:#803C5D;
+background:#4da6ff;
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:#803C5D;
+background:#4da6ff;
 text-align:center;
 color:black;
 width:700px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:#803C5D;
+background:#4da6ff;
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:#803C5D;
+background:#4da6ff;
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:#803C5D;
+background:#4da6ff;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -105,7 +105,7 @@ border-bottom: 1px solid #000;
  
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #803C5D;
+background: #4da6ff;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -149,7 +149,7 @@ box-shadow: none;
 }
   
 .navbar {
-background: #803C5D;
+background: #4da6ff;
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -160,7 +160,7 @@ color: #000;
   
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #803C5D;
+background: #4da6ff;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -222,7 +222,7 @@ border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #803C5D;
+background:  #4da6ff;
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -251,7 +251,7 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #803C5D;
+background: #4da6ff;
 border-collapse: separate;
 }
  
@@ -289,4 +289,5 @@ border-left: none;
  
 /* 
 CSS template originally created and presented by Kraft (#738/#1105)
+CSS Template Edited By TheSyntaxMaster for use by Aetph
 */
