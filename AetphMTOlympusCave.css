@@ -1,7 +1,7 @@
-/* 09A4BD (bluish) main color
-and 0BC49D (Greenish) compliment color
+/*so 09A4BD (bluish) main color
+and 0BC49D (Greenish) compliment color rgb(11, 196, 157)
 for mount Olympus
-original colors purplish 803C5D and pinkish  with #09A4BD
+original colors purplish 803C5D and pinkish
 */
 
 div.box1 {
@@ -135,21 +135,21 @@ color: #000000;
 /* Topbar */
   
 .topbar {
-background: #0BC49D;
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
  
 .badge {
-background: #0BC49D;
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 }
   
 /* Navigational Bar */
   
 .main {
-background: #0BC49D;
+background: rgba(11, 196, 157, 0.46);
 border: 1px solid #000;
 box-shadow: none;
 }
@@ -176,7 +176,7 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: #0BC49D;
+background: rgba(11, 196, 157, 0.36);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -184,17 +184,17 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: #0BC49D;
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 box-shadow: none;    
 }
   
 .progress-bar {
-background: #09A4BD;
+background: #A86882;
 }
   
 .progress {
-background: #D7F5FF;
+background: #F3E3FE;
 border: 1px solid #000;
 }
   
@@ -202,7 +202,7 @@ border: 1px solid #000;
 /* Chat */
   
 .chat_light, .chat_dark {
-background: #0BC49D;
+background: rgb(11, 196, 157);
 font-size: 11px;
 color: #000;
 }
@@ -217,13 +217,13 @@ background: none;
  
 .alert-danger {
 color: #000;
-background: #0BC49D;
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 }
  
 .alert-success {
 color: #000;
-background: #0BC49D;
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 }
  
@@ -268,24 +268,24 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #09A4BD;
+background: #A86882;
 color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #09A4BD;
+background: #A86882;
 color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #09A4BD;
+background: #A86882;
 color: #000;
 }
  
 .inner-table .right {
-background: #D7F5FF;
+background: #F3E3FE;
 border: 1px solid #000;
 border-left: none;
 }
