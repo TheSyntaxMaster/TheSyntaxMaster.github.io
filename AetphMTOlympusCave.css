@@ -190,11 +190,11 @@ box-shadow: none;
 }
   
 .progress-bar {
-background: #0BC49D;
+background: #09A4BD;
 }
   
 .progress {
-background: #F3E3FE;
+background: #98edfb;
 border: 1px solid #000;
 }
   
@@ -257,12 +257,12 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #09A4BD;
+background: #0BC49D;
 border-collapse: separate;
 }
  
 .table .right, .table .right_odd {
-background: none;
+background: #0BC49D;
 border: 0px solid #000;
 }
  
@@ -280,7 +280,7 @@ color: #000;
  
 .table .left {
 border: 1px solid #000;
-background: #0BC49D;
+background: #09A4BD;
 color: #000;
 }
  
