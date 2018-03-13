@@ -1,5 +1,10 @@
+/*so 09A4BD (bluish) main color
+and 0BC49D (Greenish) compliment color rgb(11, 196, 157)
+for Greece Cave
+original colors purplish 803C5D and pinkish
+*/
 div.box1 {
-background:#803C5D;
+background:#09A4BD;
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +16,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:#803C5D;
+background:#09A4BD;
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +28,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:#803C5D;
+background:#09A4BD;
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +40,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:#803C5D;
+background:#09A4BD;
 text-align:center;
 color:black;
 width:700px;
@@ -47,7 +52,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:#803C5D;
+background:#09A4BD;
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +64,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:#803C5D;
+background:#09A4BD;
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +76,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:#803C5D;
+background:#09A4BD;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -83,6 +88,7 @@ width:165px;
 height:200px;
 overflow:auto;
 }
+
   
  
 body {
@@ -91,7 +97,7 @@ background-repeat: no-repeat;
 background-size: cover;
 color: #000;
 }
- 
+
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
 }
@@ -99,13 +105,13 @@ color: #000;
 h1, h3 , .sidebar h3 {
 font-family: Arial !important;
 text-align: left;
-color: #000;
+color: #192206;
 border-bottom: 1px solid #000;
 }
  
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #803C5D;
+background: #09A4BD;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -129,27 +135,27 @@ color: #000000;
 /* Topbar */
   
 .topbar {
-background: rgb(128, 60, 93);
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
  
 .badge {
-background: rgb(128, 60, 93);
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 }
   
 /* Navigational Bar */
   
 .main {
-background: rgba(128, 60, 93, 0.46);
+background: rgba(11, 196, 157, 0.46);
 border: 1px solid #000;
 box-shadow: none;
 }
   
 .navbar {
-background: #803C5D;
+background: #09A4BD;
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -160,7 +166,7 @@ color: #000;
   
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #803C5D;
+background: #09A4BD;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -170,7 +176,7 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(128, 60, 93, 0.36);
+background: rgba(11, 196, 157, 0.36);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -178,17 +184,17 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(128, 60, 93);
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 box-shadow: none;    
 }
   
 .progress-bar {
-background: #A86882;
+background: #09A4BD;
 }
   
 .progress {
-background: #F3E3FE;
+background: #98edfb;
 border: 1px solid #000;
 }
   
@@ -196,7 +202,7 @@ border: 1px solid #000;
 /* Chat */
   
 .chat_light, .chat_dark {
-background: rgb(128, 60, 93);
+background: rgb(11, 196, 157);
 font-size: 11px;
 color: #000;
 }
@@ -211,18 +217,18 @@ background: none;
  
 .alert-danger {
 color: #000;
-background: rgb(128, 60, 93);
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 }
  
 .alert-success {
 color: #000;
-background: rgb(128, 60, 93);
+background: rgb(11, 196, 157);
 border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #803C5D;
+background:  #09A4BD;
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -249,32 +255,25 @@ overflow: hidden;
 border: 1px solid #000;
 }
   
-.table, .item {
-border: 1px solid #000;
-background: #803C5D;
-border-collapse: separate;
-}
+.table, .item {border: 1px solid #000;background: #0BC49D;border-collapse: separate;}
  
-.table .right, .table .right_odd {
-background: none;
-border: 0px solid #000;
-}
+.table .right, .table .right_odd {background: #0BC49D;border: 0px solid #000;}
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #A86882;
+background: #0BC49D;
 color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #A86882;
+background: #0BC49D;
 color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #A86882;
+background: #09A4BD;
 color: #000;
 }
  
@@ -283,10 +282,7 @@ background: #F3E3FE;
 border: 1px solid #000;
 border-left: none;
 }
- 
- 
 /* 
 CSS template originally created and presented by Kraft (#738/#1105)
-CSS Template Edited By TheSyntaxMaster for use by Aetph
-Edit1
+CSS Template Edited By TheSyntaxMaster for use by Aetph in Lioden
 */
