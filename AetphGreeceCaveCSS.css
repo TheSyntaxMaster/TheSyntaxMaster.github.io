@@ -210,11 +210,7 @@ color: #000;
 .chatContainer {
 border: 1px solid #000;
 }
-  
-.userstolen {
-background: none;
-}
- 
+   
 .alert-danger {
 color: #000;
 background: rgb(11, 196, 157);
